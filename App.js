@@ -7,4 +7,4 @@ app.get('/', (req, res) => {
   res.send('<h1>Hello Silverspin!</h1>')
 })
 
-app.listen(port, () => console.warn(`The audience is listening on port ${port}!`))
+app.listen(port, () => console.warn(`The audience is listening on port ${port}!`))
